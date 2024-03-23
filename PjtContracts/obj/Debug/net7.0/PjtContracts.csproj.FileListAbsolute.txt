@@ -1,0 +1,15 @@
+/Users/fp/Documents/Projetos C#/PjtContracts/PjtContracts/bin/Debug/net7.0/PjtContracts
+/Users/fp/Documents/Projetos C#/PjtContracts/PjtContracts/bin/Debug/net7.0/PjtContracts.deps.json
+/Users/fp/Documents/Projetos C#/PjtContracts/PjtContracts/bin/Debug/net7.0/PjtContracts.runtimeconfig.json
+/Users/fp/Documents/Projetos C#/PjtContracts/PjtContracts/bin/Debug/net7.0/PjtContracts.dll
+/Users/fp/Documents/Projetos C#/PjtContracts/PjtContracts/bin/Debug/net7.0/PjtContracts.pdb
+/Users/fp/Documents/Projetos C#/PjtContracts/PjtContracts/obj/Debug/net7.0/PjtContracts.csproj.AssemblyReference.cache
+/Users/fp/Documents/Projetos C#/PjtContracts/PjtContracts/obj/Debug/net7.0/PjtContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fp/Documents/Projetos C#/PjtContracts/PjtContracts/obj/Debug/net7.0/PjtContracts.AssemblyInfoInputs.cache
+/Users/fp/Documents/Projetos C#/PjtContracts/PjtContracts/obj/Debug/net7.0/PjtContracts.AssemblyInfo.cs
+/Users/fp/Documents/Projetos C#/PjtContracts/PjtContracts/obj/Debug/net7.0/PjtContracts.csproj.CoreCompileInputs.cache
+/Users/fp/Documents/Projetos C#/PjtContracts/PjtContracts/obj/Debug/net7.0/PjtContracts.dll
+/Users/fp/Documents/Projetos C#/PjtContracts/PjtContracts/obj/Debug/net7.0/refint/PjtContracts.dll
+/Users/fp/Documents/Projetos C#/PjtContracts/PjtContracts/obj/Debug/net7.0/PjtContracts.pdb
+/Users/fp/Documents/Projetos C#/PjtContracts/PjtContracts/obj/Debug/net7.0/PjtContracts.genruntimeconfig.cache
+/Users/fp/Documents/Projetos C#/PjtContracts/PjtContracts/obj/Debug/net7.0/ref/PjtContracts.dll
